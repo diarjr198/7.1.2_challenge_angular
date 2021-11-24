@@ -1,0 +1,9 @@
+p {
+    background-color: lightpink;
+    border: 3px solid red;
+    width: 500px;
+    padding: 15px;
+    margin: 15px auto;
+    text-align: center;
+    cursor: pointer;
+}
